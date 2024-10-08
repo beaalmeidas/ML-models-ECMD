@@ -26,9 +26,9 @@ pip install -r requirements.txt
 **4.** Choose a notebook
 <br>
 
-**5.** Edit the path to the dataset to add the folder they come from. It should look like this:
+**5.** If the dataset isn't already loaded from a library, it will be present in the 'datasets' folder. Edit the path to the dataset to add the folder they come from. It should look like this:
 ```
-iris_data = pd.read_csv("./datasets/iris.csv", encoding="utf-8")
+iris_data = pd.read_csv("../datasets/iris.csv", encoding="utf-8")
 ```
 <br>
 
