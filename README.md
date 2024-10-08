@@ -48,3 +48,7 @@ iris_data = pd.read_csv("../datasets/iris.csv", encoding="utf-8")
 
 ---
 
+## Credits
+
+**Author:** Beatriz Almeida de Souza Silva
+**Professor:** Ricardo Roberto de Lima
